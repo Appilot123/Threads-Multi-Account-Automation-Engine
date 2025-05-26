@@ -1,5 +1,13 @@
 <h1 align="center">Threads Multi Account Automation Engine</h1>
 
+## Project Overview:
+This project automates essential engagement tasks on Threads at scale—likes, follows, and posts—using stealth techniques to mimic human behavior and bypass detection. It’s designed for users managing multiple Threads accounts, looking to grow audiences or simulate organic engagement with minimal manual effort. Built for long-term stability and extensibility, it leverages advanced browser automation, IP rotation, and device fingerprint spoofing to stay undetected even under aggressive usage.
+
+## Core Features:
+- **Undetectable Automation:** Utilizes dynamic fingerprint spoofing, randomized behavior, and stealth browsers (GoLogin/Multilogin) to operate without platform bans.
+- **Multi-Account Management:** Seamlessly handles hundreds of Threads accounts concurrently with session isolation and intelligent rotation.
+- **Modular Task Engine:** Easily switch between tasks—auto-like, auto-follow, auto-post—with configurable action limits and delays per profile.
+
 <div align="center">
   <img
     src="https://github.com/user-attachments/assets/d200549d-7613-446f-a43b-19a4117ca360"
@@ -62,14 +70,6 @@
 <span>
 
 <div align="left">
-
-## Project Overview:
-This project automates essential engagement tasks on Threads at scale—likes, follows, and posts—using stealth techniques to mimic human behavior and bypass detection. It’s designed for users managing multiple Threads accounts, looking to grow audiences or simulate organic engagement with minimal manual effort. Built for long-term stability and extensibility, it leverages advanced browser automation, IP rotation, and device fingerprint spoofing to stay undetected even under aggressive usage.
-
-## Core Strengths:
-- **Undetectable Automation:** Utilizes dynamic fingerprint spoofing, randomized behavior, and stealth browsers (GoLogin/Multilogin) to operate without platform bans.
-- **Multi-Account Management:** Seamlessly handles hundreds of Threads accounts concurrently with session isolation and intelligent rotation.
-- **Modular Task Engine:** Easily switch between tasks—auto-like, auto-follow, auto-post—with configurable action limits and delays per profile.
 
 ## Features List:
 | Feature                  | Description                                                                  |
